@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Modules",
+    "\\Modules\\UIElements",
+    "\\Modules\\UIElements\\Events",
+    "\\Runtime\\2D",
+    "\\Runtime\\2D\\Common",
+    "\\Runtime\\2D\\Common\\ScriptBindings",
+    "\\Tools",
+    "\\Tools\\PackageManager",
+    "\\Tools\\PackageManager\\DataContract"
+  ],
+  "SelectedNode": "\\Modules\\UIElements\\Events\\ChangeEvent.cs",
+  "PreviewInSolutionExplorer": false
+}
